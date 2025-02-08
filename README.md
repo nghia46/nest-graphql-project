@@ -26,6 +26,11 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Access GraphQL
+```bash
+http://localhost:3000/graphql
+```
+
 ## Project setup
 
 ```bash
